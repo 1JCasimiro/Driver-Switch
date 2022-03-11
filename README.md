@@ -7,6 +7,7 @@ This program makes it simple to change your tablet drivers, everytime you switch
 HOW TO SETUP
 												  
 Everytime that you install a new brand driver, it overrides the wintab32.dll file in the System32 folder.
+
 Location of wintab32.dll file: C:\Windows\System32.
 										                        
 - Download your tablet 1 drivers and save the wintab32.dll on the brand 1 folder;
@@ -21,5 +22,4 @@ EXTRA - If you have another brand or more than one config .dll file, you can mak
 name of that folder as a command in prompt.
 												                        
 OBS: If it doesnt work right away, reboot the computer.
-												                        
-gggg
+		
