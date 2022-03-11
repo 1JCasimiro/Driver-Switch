@@ -5,7 +5,7 @@ The reason is because they both use the same file to save your drivers configura
 
 This program makes it simple to change your tablet drivers, everytime you switch tablet brands.
 
-THIS SOFTWARE DOES NOT WORK WITHOUT SETTING IT UP FIRST				       										      
+<h1>THIS SOFTWARE DOES NOT WORK WITHOUT SETTING IT UP FIRST<h1>				       										      
 
 HOW TO SETUP
 												  
