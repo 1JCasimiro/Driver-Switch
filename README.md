@@ -1,9 +1,12 @@
 # Driver-Switch
 
-THIS SOFTWARE DOES NOT WORK WITHOUT SETTING IT UP FIRST				                                
-												                       
+Have you ever wondered why you can't use two different brands of drawing tablets on the same computer(Windows)?
+The reason is because they both use the same file to save your drivers configuration.
+
 This program makes it simple to change your tablet drivers, everytime you switch tablet brands.
-												                   
+
+THIS SOFTWARE DOES NOT WORK WITHOUT SETTING IT UP FIRST				       										      
+
 HOW TO SETUP
 												  
 Everytime that you install a new brand driver, it overrides the wintab32.dll file in the System32 folder.
