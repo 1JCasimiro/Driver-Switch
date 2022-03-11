@@ -2,7 +2,7 @@
 
 * THIS SOFTWARE DOES NOT WORK WITHOUT SETTING IT UP FIRST				                                
 												                       
-       This program makes it simple to change your tablet drivers, everytime you switch tablet brands.
+This program makes it simple to change your tablet drivers, everytime you switch tablet brands.
 												                   
 HOW TO SETUP
 												  
