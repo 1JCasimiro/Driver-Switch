@@ -9,7 +9,7 @@ THIS SOFTWARE DOES NOT WORK WITHOUT SETTING IT UP FIRST
 
 HOW TO SETUP
 												  
-Everytime that you install a new brand driver, it overrides the wintab32.dll file in the System32 folder.
+Everytime that you install a new brand driver, it overrides the wintab32.dll file in the System32 folder.<br>
 Location of wintab32.dll file: C:\Windows\System32.
 										                        
 - Download your tablet 1 drivers and save the wintab32.dll on the brand 1 folder;
