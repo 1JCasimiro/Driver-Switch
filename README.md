@@ -20,9 +20,9 @@ Location of wintab32.dll file: C:\Windows\System32.
 															
 1 - Run Driver Switch.exe and write the name of the brand you want to use.
 															
-EXTRA - If you have another brand or more than one config .dll file, you can make a new folder and use the
+<b>EXTRA:</b> If you have another brand or more than one config .dll file, you can make a new folder and use the
 name of that folder as a command in prompt.
 												                        
-OBS: If it doesnt work right away, reboot the computer.
+<b>OBS:</b> If it doesnt work right away, reboot your computer.
 		
 
